@@ -1,3 +1,3 @@
 # Less Examples
 
-This is ess Examples.
+This is Less Examples.
